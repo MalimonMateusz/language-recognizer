@@ -1,0 +1,32 @@
+Die moderne Sprachphilosophie, welche im 20. Jahrhundert die so genannte „Linguistische Wende“ (linguistic turn) auslöste, befasst sich u. a. mit der Abhängigkeit der Wirklichkeitserfassung von den individuellen sprachlichen Möglichkeiten (vgl. Sapir-Whorf-Hypothese), mit der Herstellung von Wahrheit, Erkenntnis und Wissen durch Kommunikation (vgl. Sprachspiel), wie man mit Hilfe sprachlicher Äußerungen Handlungen vollzieht (John Langshaw Austin: „How to do things with words“, vgl. Pragmatik), dem verzerrenden Einfluss der Sprache auf die Realität (z. B. in der feministischen Linguistik) sowie mit der Frage, was „Bedeutung“ ist.
+
+Zu den wichtigsten Sprachphilosophen zählen Gottlob Frege, Charles S. Peirce, George Edward Moore, Bertrand Russell, W.v.O. Quine, Saul Kripke und Ludwig Wittgenstein. Wichtige Beiträge haben auch die Schüler Ferdinand de Saussures (Strukturalismus), Martin Heidegger (Etymologie und Neologismen), Michel Foucault (Diskursanalyse) und Jacques Derrida (Poststrukturalismus) geliefert.
+
+Praktische Philosophie
+Praktische Philosophie bezeichnet gemäß der aristotelischen Tradition denjenigen Teilbereich der Philosophie, der sich aus den Disziplinen Ethik, Rechtsphilosophie, Staatsphilosophie, Politische Philosophie und den Grundlagen der Ökonomie (siehe auch Wirtschaftsphilosophie) zusammensetzt. Praktische Philosophie ist auf die philosophische Erforschung der menschlichen Praxis gerichtet.
+
+Aristoteles hatte der theoretischen Philosophie, die sich auf zweckfreie Erkenntnis notwendiger Gründe richtet, die praktische Philosophie (Ethik, Ökonomie und Politik) gegenübergestellt, die sich auf das zweckgebundene praktische und politische Handeln des Menschen im Bereich dessen bezieht, was sich auch anders verhalten kann. Vor dem Hintergrund der Forderung nach Wissenschaftlichkeit relativierte sich jedoch der Sinn dieser Unterscheidung: Theoretische und praktische Philosophie sollten beide gleichermaßen wissenschaftlich werden. Mitte des 19. Jahrhunderts begannen sich die einzelnen Teildisziplinen der praktischen Philosophie zu spezialisieren und allmählich als Einzeldisziplinen herauszubilden.
+
+Ethik und Metaethik
+→ Hauptartikel: Ethik
+Die philosophische Ethik befasst sich mit Antworten auf die Kantsche Frage „Was sollen wir tun?“. Sie erstellt Kriterien für die Beurteilung von Handlungen und bewertet diese hinsichtlich ihrer Motive und Konsequenzen. Dabei unterscheidet sie sich von der Moral, die bestimmte Handlungen traditionell oder konventionell vorschreibt, obgleich das Ziel der normativen Ethik in der Begründung von allgemeingültigen Normen und Werten gesehen werden kann.
+
+Dieses Ziel gilt vielen Philosophen als gescheitert, da es gemäß der deontischen Logik als auch aufgrund von Humes Gesetz unmöglich ist, Normen aus nichtnormativen Sätzen zu deduzieren, d. h. bestimmte Werte, Normen oder Präferenzen müssen immer schon vorausgesetzt werden, damit weitere Normen abgeleitet werden können. Rationale Ethik bestünde daher nur in der Prüfung, ob bestimmte Normen mit übergeordneten Zielen logisch vereinbar sind oder nicht. Bei einer voraussetzungslosen Philosophie hingegen wären ethische Maßstäbe für grundsätzliche Zweckorientierungen logisch nicht zu gewinnen.
+
+Andere Philosophen versuchen trotzdem, in verschiedenen, einander widersprechenden Konzepten, eine absolute Begründung von Normen zu finden. Am bekanntesten in Deutschland ist die transzendentalpragmatische, absolute Normenbegründung der Diskursethik nach Apel, der zufolge jeder Zweifler bereits Teilnehmer an einem Diskurs ist und daher ethische Diskursregeln anerkannt habe.
+
+Praktische Philosophen versuchen auch oft, eine oberste Regel oder ein allgemeines Kriterium für moralisches Handeln zu finden. Dabei ist die Goldene Regel wenig populär, da sie gleiche Wünsche aller Beteiligten voraussetzt. Dem Utilitarismus zufolge ist das oberste Moralprinzip, das größte Glück der größten Zahl anzustreben. Verbreitet ist auch Kants kategorischer Imperativ:
+
+„Handle nur nach derjenigen Maxime, durch die du zugleich wollen kannst, dass sie ein allgemeines Gesetz werde.“
+„Handle so, dass du die Menschheit sowohl in deiner Person, als in der Person eines jeden anderen jederzeit zugleich als Zweck, niemals bloß als Mittel brauchst.“
+
+– Immanuel Kant: Grundlegung zur Metaphysik der Sitten, Akademie-Ausgabe Kant Werke IV, S. 421 bzw. S. 429, 10–12
+Die deskriptive Ethik hingegen beschäftigt sich mit den verschiedenen vorhandenen Moralvorstellungen und versucht diese genau zu fassen und zu beschreiben, sie ist eher Teil der empirischen Humanwissenschaften als der Philosophie.
+
+Basis der allgemeinen Ethik ist die Metaethik, die das Sprechen über Ethik und ethische Begriffe („gut“, „böse“, „Handlung“) sowie normenlogische Folgerungen analysiert.
+
+Die Ethik gehört zu den wenigen Disziplinen der Philosophie, die bisher nur in geringem Maße von (anderen) Wissenschaften in Frage gestellt wurden. Dies ist nämlich logisch kaum möglich, da empirische Wissenschaften nur Fakten beschreiben und Mittel zur Erreichung von Zwecken entwickeln und verbessern, aber nicht sagen können, welche Zwecke jemand überhaupt verfolgen soll.
+
+Die Infragestellung aller ethischen Werte durch Amoralismus und Relativismus steht im Kontrast zur gesellschaftlichen Nachfrage nach Bereichsethiken wie der Medizin-, Tier- oder Wissenschaftsethik bis hin zur Hacker- und Informationsethik, aber auch der Schaffung von Institutionen wie dem Nationalen Ethikrat.
+
+Einflussreiche Ethiker sind unter anderem Aristoteles, die Stoiker und Epikureer, Thomas von Aquin, Immanuel Kant, Jeremy Bentham und John Stuart Mill, Max Scheler, Hans Jonas und Karl-Otto Apel.

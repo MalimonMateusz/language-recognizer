@@ -1,0 +1,25 @@
+La lógica aristotélica es la lógica basada en los trabajos del filósofo griego Aristóteles, quien es ampliamente reconocido como el padre fundador de la lógica.126​ Sus trabajos principales sobre la materia tradicionalmente se agrupan bajo el nombre Órganon («herramienta») y constituyen la primera investigación sistemática sobre los principios del razonamiento válido o correcto. Inició lo que se denomina como lógica de términos.127​128​
+
+Para Aristóteles, la lógica era una herramienta necesaria para adentrarse en el mundo de la filosofía y la ciencia. Su lógica está a su vez vinculada con su metafísica.129​ Sus propuestas ejercieron una influencia sin par durante más de dos milenios,126​ a tal punto que en el siglo xviii, Immanuel Kant llegó a afirmar:
+"Que desde los tiempos más tempranos la lógica ha transitado por un camino seguro puede verse a partir del hecho de que desde la época de Aristóteles no ha dado un sólo paso atrás. [...] Lo que es aún más notable acerca de la lógica es que hasta ahora tampoco ha podido dar un sólo paso hacia adelante, y por lo tanto parece a todas luces terminada y completa." Crítica de la razón pura, B, VIII
+
+El trabajo de Aristóteles se consideraba desde los tiempos clásicos, y particularmente durante la época medieval en Europa y el Medio Oriente, como la imagen misma de un sistema completamente elaborado. Sin embargo no estaba solo: los estoicos propusieron un sistema de lógica proposicional que fue estudiado por los lógicos medievales. También se estudió el problema de la generalidad múltiple. No obstante, no se consideraba que los problemas de la lógica aristotélica, tuvieran que necesitar soluciones revolucionarias. En la actualidad, algunos académicos afirman que el sistema de Aristóteles no puede aportar mucho más que valor histórico, debido a la llegada de la lógica matemática. Sin embargo, la lógica de Aristóteles se emplea, entre otros campos de estudio e investigación, en la teoría de la argumentación para ayudar a desarrollar y cuestionar críticamente los esquemas de argumentación que se utilizan en la inteligencia artificial y los argumentos legales.
+Véase también: Historia de la lógica
+Los silogismos y la silogística
+Esta sección es un extracto de Lógica aristotélica § Silogismos.[editar]
+
+Se llama cuadro de oposición al esquema mediante el cual se estudian las relaciones formales entre los diversos tipos de juicios aristotélicos, considerando cada juicio con términos idénticos:
+- A = Universal afirmativo. Término Sujeto tomado en su extensión universal; término Predicado particular; cualidad afirmativa (Todo S es P).
+- E = Universal negativo. Término Sujeto tomado en su extensión universal; término Predicado universal; cualidad negativa (Ningún S es P).
+- I = Particular afirmativo. Término Sujeto tomado en su extensión particular; término Predicado en su extensión particular; cualidad afirmativa (Algún S es P).
+- O = Particular negativo. Término Sujeto tomado en su extensión particular; término Predicado en su extensión universal; cualidad negativa (Algún S no es P).
+Según Aristóteles, toda proposición (apophansis) se compone de dos términos (horos), un sujeto (hipokeimenon) y un predicado (katêgorein); y puede ser verdadera o falsa.127​ Luego, todo enunciado afirmativo simple se puede reducirse a "S es P".130​
+
+La noción central del sistema lógico de Aristóteles es el silogismo (o deducción, apódeixis o sullogismos).131​132​ Un silogismo es, según la definición de Aristóteles, «un discurso (logos) en el cual, establecidas ciertas cosas, resulta necesariamente de ellas, por ser lo que son, otra cosa diferente».133​ El silogismo es una inferencia en la que una conclusión (sumperasma) se sigue necesariamente de otras dos proposiciones, las "premisas" (protasis).130​ Un ejemplo clásico de silogismo es el siguiente:
+
+Todos los hombres son mortales.
+Todos los griegos son hombres.
+Por lo tanto, todos los griegos son mortales.
+En este ejemplo, tras establecer las premisas (1) y (2), la conclusión (3) se sigue por necesidad. La noción de silogismo es similar a la noción moderna de argumento deductivamente válido, pero hay diferencias.134​
+
+En los Primeros analíticos, Aristóteles construyó la primera teoría de la inferencia válida.135​ Conocida como la silogística, la teoría ofrece criterios para evaluar la validez de ciertos tipos muy específicos de silogismos: los silogismos categóricos.135​ Para definir lo que es un silogismo categórico, primero es necesario definir lo que es una proposición categórica. Toda proposición contiene dos términos: un sujeto (S) y un predicado (P). Una proposición es categórica si tiene alguna de las siguientes cuatro formas:

@@ -1,0 +1,20 @@
+education as a means to get people to use condoms may be faulty. This is why it is important to read research that has been done in the area. Explicating this logic can also reveal unintended or unforeseen consequences of a program, both positive and negative. The program theory drives the hypotheses to test for impact evaluation. Developing a logic model can also build common understanding amongst program staff and stakeholders about what the program is actually supposed to do and how it is supposed to do it, which is often lacking (see Participatory impact pathways analysis). Of course, it is also possible that during the process of trying to elicit the logic model behind a program the evaluators may discover that such a model is either incompletely developed, internally contradictory, or (in worst cases) essentially nonexisistent. This decidedly limits the effectiveness of the evaluation, although it does not necessarily reduce or eliminate the program.[14]
+
+Creating a logic model is a wonderful way to help visualize important aspects of programs, especially when preparing for an evaluation. An evaluator should create a logic model with input from many different stake holders. Logic Models have 5 major components: Resources or Inputs, Activities, Outputs, Short-term outcomes, and Long-term outcomes [15] Creating a logic model helps articulate the problem, the resources and capacity that are currently being used to address the problem, and the measurable outcomes from the program. Looking at the different components of a program in relation to the overall short-term and long-term goals allows for illumination of potential misalignments. Creating an actual logic model is particularly important because it helps clarify for all stakeholders: the definition of the problem, the overarching goals, and the capacity and outputs of the program.[15]
+
+Rossi, Lipsey & Freeman (2004) suggest four approaches and procedures that can be used to assess the program theory.[8] These approaches are discussed below.
+
+Assessment in relation to social needs [8]
+This entails assessing the program theory by relating it to the needs of the target population the program is intended to serve. If the program theory fails to address the needs of the target population it will be rendered ineffective even when if it is well implemented.[8]
+
+Assessment of logic and plausibility[8]
+This form of assessment involves asking a panel of expert reviewers to critically review the logic and plausibility of the assumptions and expectations inherent in the program's design.[8] The review process is unstructured and open ended so as to address certain issues on the program design. Rutman (1980), Smith (1989), and Wholly (1994) suggested the questions listed below to assist with the review process.[8]
+
+Are the program goals and objectives well defined?
+Are the program goals and objectives feasible?
+Is the change process presumed in the program theory feasible?
+Are the procedures for identifying members of the target population, delivering service to them, and sustaining that service through completion well defined and sufficient?
+Are the constituent components, activities, and functions of the program well defined and sufficient?
+Are the resources allocated to the program and its various activities adequate?
+Assessment through comparison with research and practice [8]
+This form of assessment requires gaining information from research literature and existing practices to assess various components of the program theory. The evaluator can assess whether the program theory is congruent with research evidence and practical experiences of programs with similar concepts.[8]

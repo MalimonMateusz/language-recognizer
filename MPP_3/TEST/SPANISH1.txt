@@ -1,0 +1,22 @@
+En el contexto de los vuelos espaciales, un satélite es un objeto que ha sido puesto en órbita intencionadamente. Estos objetos se llaman satélites artificiales para distinguirlos de los satélites naturales, como la Luna de la Tierra.
+
+El 4 de octubre de 1957 la Unión Soviética lanzó el primer satélite artificial, el Sputnik 1. Desde entonces, alrededor de unos 8.900 satélites han sido lanzados por más de 40 países. Según una estimación hecha en 2018, unos 5000 permanecen en órbita. De ellos, unos 1900 estaban operativos, mientras que el resto ha cumplido con su vida útil y se han convertido en basura espacial.
+
+Los satélites se utilizan para muchos propósitos. Entre las modalidades más frecuentes se incluyen a los satélites de observación terrestre tanto civiles como militares, satélites de comunicaciones, satélites de navegación, satélites meteorológicos, observatorio espaciales. Las estaciones espaciales y las naves espaciales en órbita también son satélites.
+
+Más de una docena de sondas espaciales han sido situadas en órbita alrededor de otros cuerpos celestes y han pasado a ser satélites artificiales de la Luna, Mercurio, Venus, Marte, Júpiter, Saturno, un cometa, el Sol y unos cuantos asteroides.
+
+Las órbitas de los satélites varían considerablemente en función de la finalidad del satélite. Las más usadas son la órbita baja terrestre donde se ubica el 63% de los satélites operativos y la órbita geoestacionaria donde está el 29%.
+
+
+Artificial Satellites around Earth from 2000 to 2020
+Los satélites pueden funcionar independientemente o como parte de un sistema más grande, ya sea mediante una formación de satélites o a través de una constelación de satélites.
+
+Una lanzadera espacial es un cohete que coloca un satélite en órbita y, por lo general, despegan desde una plataforma de lanzamiento en tierra. Algunos se lanzan desde un submarino o una plataforma marítima móvil, aunque también se puede hacer a bordo de un avión.
+
+Los satélites suelen ser sistemas semiindependientes controlados por ordenador. Los subsistemas satelitales están a cargo de muchas tareas, como la generación de energía, el control térmico, la telemetría, el control de altitud, la instrumentación científica, la comunicación, etc.
+
+Antecedentes históricos
+La primera obra de ficción conocida que describe cómo un satélite artificial es lanzado a una órbita alrededor de la Tierra, aparece en un cuento de Edward Everett Hale, The Brick Moon (La luna de ladrillo), que fue publicado por entregas en Atlantic Monthly en 1869.
+
+La idea reaparece en Los quinientos millones de la Begún (1879) de Julio Verne.1​ En este libro, sin embargo, se trata de un resultado no intencionado del villano, al construir una pieza de artillería gigante para destruir a sus enemigos. Este le imprime al proyectil una velocidad superior a la pretendida, lo que lo deja en órbita como un satélite artificial.

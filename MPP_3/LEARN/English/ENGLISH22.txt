@@ -1,0 +1,21 @@
+Perhaps the most difficult part of evaluation is determining whether the program itself is causing the changes that are observed in the population it was aimed at. Events or processes outside of the program may be the real cause of the observed outcome (or the real prevention of the anticipated outcome).
+
+Causation is difficult to determine. One main reason for this is self selection bias.[21] People select themselves to participate in a program. For example, in a job training program, some people decide to participate and others do not. Those who do participate may differ from those who do not in important ways. They may be more determined to find a job or have better support resources. These characteristics may actually be causing the observed outcome of increased employment, not the job training program.
+
+Evaluations conducted with random assignment are able to make stronger inferences about causation. Randomly assigning people to participate or to not participate in the program, reduces or eliminates self-selection bias. Thus, the group of people who participate would likely be more comparable to the group who did not participate.
+
+However, since most programs cannot use random assignment, causation cannot be determined. Impact analysis can still provide useful information. For example, the outcomes of the program can be described. Thus the evaluation can describe that people who participated in the program were more likely to experience a given outcome than people who did not participate.
+
+If the program is fairly large, and there are enough data, statistical analysis can be used to make a reasonable case for the program by showing, for example, that other causes are unlikely.
+
+Reliability, validity and sensitivity
+It is important to ensure that the instruments (for example, tests, questionnaires, etc.) used in program evaluation are as reliable, valid and sensitive as possible. According to Rossi et al. (2004, p. 222),[8] 'a measure that is poorly chosen or poorly conceived can completely undermine the worth of an impact assessment by producing misleading estimates. Only if outcome measures are valid, reliable and appropriately sensitive can impact assessments be regarded as credible'.
+
+Reliability
+The reliability of a measurement instrument is the 'extent to which the measure produces the same results when used repeatedly to measure the same thing' (Rossi et al., 2004, p. 218).[8] The more reliable a measure is, the greater its statistical power and the more credible its findings. If a measuring instrument is unreliable, it may dilute and obscure the real effects of a program, and the program will 'appear to be less effective than it actually is' (Rossi et al., 2004, p. 219).[8] Hence, it is important to ensure the evaluation is as reliable as possible.
+
+Validity
+The validity of a measurement instrument is 'the extent to which it measures what it is intended to measure' (Rossi et al., 2004, p. 219).[8] This concept can be difficult to accurately measure: in general use in evaluations, an instrument may be deemed valid if accepted as valid by the stakeholders (stakeholders may include, for example, funders, program administrators, et cetera).
+
+Sensitivity
+The principal purpose of the evaluation process is to measure whether the program has an effect on the social problem it seeks to redress; hence, the measurement instrument must be sensitive enough to discern these potential changes (Rossi et al., 2004).[8] A measurement instrument may be insensitive if it contains items measuring outcomes which the program couldn't possibly effect, or if the instrument was originally developed for applications to individuals (for example standardized psychological measures) rather than to a group setting (Rossi et al., 2004).[8] These factors may result in 'noise' which may obscure any effect the program may have had.

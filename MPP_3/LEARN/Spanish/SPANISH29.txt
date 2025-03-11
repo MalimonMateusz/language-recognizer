@@ -1,0 +1,15 @@
+La Wilkinson Microwave Anisotropy Probe o WMAP es una sonda de la NASA cuya misión fue estudiar el cielo y medir las diferencias de temperatura que se observan en la radiación de fondo de microondas, un remanente del Big Bang.1​ Fue lanzada por un cohete Delta II el 30 de junio de 2001 desde Cabo Cañaveral, Florida, Estados Unidos.
+
+El objetivo de la misión WMAP era comprobar las teorías sobre el origen y evolución del universo. Esta misión fue la sucesora del Cosmic Background Explorer (COBE)2​ y entra dentro del programa de exploradores de clase media de la NASA.
+
+WMAP fue nombrada así en honor a David Wilkinson, miembro del equipo científico de la misión y pionero en el estudio de la radiación de fondo. Los objetivos científicos de la misión son que la temperatura del fondo cósmico de microondas debe ser medida con una altísima resolución y sensibilidad. Debido a esto, el mayor énfasis en el diseño fue el de evitar errores sistémicos en la toma de datos.
+
+La sonda WMAP usa radiómetros diferenciales de microondas que miden las diferencias de temperatura entre dos puntos cualquiera del cielo.3​ WMAP se encuentra en órbita en torno al punto lagrangiano L2, situado a unos 1.5 millones de kilómetros de la Tierra.
+
+
+Diagrama del WMAP.
+Este punto de observación (situado en la línea que une al sol con la tierra) proporcionaba a la sonda un entorno excepcionalmente estable, ya que puede apuntar en cualquier dirección al espacio profundo, sin verse afectada por la presencia de la estrella madre. Además, desde el punto L2 la sonda observa el cielo entero cada seis meses. Para evitar las interferencias provenientes de nuestra propia galaxia, WMAP usaba cinco bandas de frecuencia separadas, desde los 22 GHz a los 90 GHz.
+
+
+Animación que muestra la sonda WMAP en 360° alrededor de su eje.
+El 11 de febrero de 2003, el grupo de relaciones públicas de la NASA convocó una rueda de prensa para comunicar la edad y composición del universo sobre la base de datos de la sonda WMAP.4​ En dicha rueda de prensa se desveló la imagen más intrincada del universo primigenio tomada hasta hoy, hasta los resultados del satélite artificial Planck. Según la NASA, esta imagen "contiene tal nivel de detalle que se puede considerar uno de los resultados científicos más importantes de los últimos años". Hay que tener en cuenta que si bien esta imagen no es la de mayor resolución tomada sobre el fondo cósmico de microondas, fue en su momento la mejor imagen que tenemos de la radiación de fondo de todo el cielo. Los datos de tres años del WMAP fueron publicados el 17 de marzo de 20065​. Estos datos incluyen las medidas de la temperatura y de la polarización de los CMB, que proporcionan una confirmación más fuerte del modelo estándar Lambda-CDM. Posteriormente, en 2008, se publicaron los datos de 5 años6​, en 2010 los de 7 años7​ y en 2012 los de 9 años

@@ -1,0 +1,23 @@
+Die Logik beschäftigt sich nicht mit konkreten Inhalten, sondern mit den Gesetzmäßigkeiten der Folgerichtigkeit. Sie fragt, auf Grundlage welcher Regeln aus bestimmten Voraussetzungen („Prämissen“) bestimmte Schlussfolgerungen („Konklusionen“) gezogen oder nicht gezogen werden können (vgl. Fehlschlüsse). Insofern thematisiert sie die Grundlage aller auf Argumenten basierenden Arten von Wissenschaft.
+
+In früheren Zeiten wurde der Ausdruck „Logik“ in weiterer Bedeutung verwendet als heute. Typisch ist das Beispiel der Logik der Stoa. Diese umfasste auch den Bereich, der heute Erkenntnistheorie genannt wird, sprachphilosophische Probleme sowie die Rhetorik. Ganz ähnlich gilt dies noch für viele Logikbücher bis ins frühe 20. Jahrhundert.
+
+In der modernen Philosophie bezeichnet Logik als Wissenschaft des korrekten Folgerns nur noch die formale Logik. Diese überschneidet sich mit Gebieten aus Mathematik und Informatik. Die Logizisten meinen sogar, die gesamte Mathematik sei, abgesehen von Axiomfindung, nur logisches Ableiten bzw. Folgern. Inwieweit sich Logik auch auf andere Gebiete ausdehnt (z. B. Argumentationstheorie, Sprechakttheorie) ist hingegen umstritten.
+
+Zu den wichtigsten Logikern der Philosophiegeschichte zählen Aristoteles, Chrysipp, Johannes Buridanus, Gottlob Frege, Charles Sanders Peirce, Bertrand Russell mit Alfred N. Whitehead, Kurt Gödel und Alfred Tarski.
+
+Erkenntnistheorie
+→ Hauptartikel: Erkenntnistheorie
+
+Figürlich dargestelltes System der Kenntnisse des Menschen (deutsche Übersetzung des „Stammbaums menschlichen Wissens“ zu Beginn von Band 1 der Encyclopédie von D’Alembert und Diderot (1751))
+Die Erkenntnistheorie fragt nach der Möglichkeit, Wissen zu erlangen und zu sichern. Umfang des Wissens, Natur des Wissens, Arten des Wissens, Quellen des Wissens und Struktur des Wissens werden untersucht, ebenso die Problematik der Wahrheit oder Falschheit von Theorien. Die Wahrnehmung der Wirklichkeit stellt sie genauso auf den Prüfstand, wie den Einfluss von Sprache und Denken auf den Erkenntnisvorgang. Außerdem versucht sie, die Grenzen der Erkenntnis abzustecken und zu definieren, was prinzipiell als „wissenschaftlich“ bezeichnet werden kann. Diese Erkenntniskritik stellt seit Immanuel Kant für viele Philosophen den fundamentalen Kern der Erkenntnistheorie dar.
+
+Wichtige Erkenntnistheoretiker waren u. a. Platon, Aristoteles, René Descartes, John Locke, David Hume, Immanuel Kant, Auguste Comte, Edmund Husserl und Ludwig Wittgenstein.
+
+Wissenschaftstheorie
+→ Hauptartikel: Wissenschaftstheorie
+Die Wissenschaftstheorie ist eng verbunden mit der Erkenntnistheorie und analysiert bzw. postuliert die Voraussetzungen, Methoden und Ziele von Wissenschaft. Sie legt vor allem die Kriterien für die Begriffe „Wissenschaft“ und „wissenschaftlich“ fest und versucht sie damit von Para- und Pseudowissenschaften abzugrenzen. Dazu haben sich heute mehrere grundlegende, nicht durch die Einzelwissenschaften selbst zu rechtfertigende methodische Vorgaben, herausgebildet. Beispielsweise die Notwendigkeit der Wiederholbarkeit von Experimenten, das Ökonomieprinzip („Ockhams Rasiermesser“) und das Prinzip der Falsifizierbarkeit als Voraussetzung für sinnvolle wissenschaftliche Aussagen sind so Bestandteile dieser Wissenschaftsmodelle.
+
+Weiterhin beschäftigt sich die Wissenschaftstheorie mit dem Verhältnis zwischen wissenschaftlichen Erkenntnissen und den Konzepten von Wahrheit bzw. Wirklichkeit. Auch die mögliche Einteilung und Ordnung des menschlichen Wissens in Gebiete und ihre Hierarchisierung, sowie die Untersuchungen der Prinzipien des wissenschaftlichen Fortschreitens (vgl. Paradigmenwechsel) gehören zu ihrem Aufgabenbereich.
+
+Wichtige Vertreter der Wissenschaftstheorie sind z. B. Aristoteles, Francis Bacon, Rudolf Carnap, Karl Popper, Thomas Kuhn, Paul Feyerabend und Hilary Putnam.

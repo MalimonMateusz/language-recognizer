@@ -1,0 +1,29 @@
+Though program evaluation processes mentioned here are appropriate for most programs, highly complex non-linear initiatives, such as those using the collective impact (CI) model, require a dynamic approach to evaluation. Collective impact is "the commitment of a group of important actors from different sectors to a common agenda for solving a specific social problem"[23] and typically involves three stages, each with a different recommended evaluation approach:
+
+Early phase: CI participants are exploring possible strategies and developing plans for action. Characterized by uncertainty.
+Recommended evaluation approach: Developmental evaluation to help CI partners understand the context of the initiative and its development:[24] "Developmental evaluation involves real time feedback about what is emerging in complex dynamic systems as innovators seek to bring about systems change."[25]
+
+Middle phase: CI partners implement agreed upon strategies. Some outcomes become easier to anticipate.
+Recommended evaluation approach: Formative evaluation to refine and improve upon the progress, as well as continued developmental evaluation to explore new elements as they emerge. Formative evaluation involves "careful monitoring of processes in order to respond to emergent properties and any unexpected outcomes."[26]
+
+Later phase: Activities achieve stability and are no longer in formation. Experience informs knowledge about which activities may be effective.
+Recommended evaluation approach: Summative evaluation "uses both quantitative and qualitative methods in order to get a better understanding of what [the] project has achieved, and how or why this has occurred."[27]
+
+Planning a program evaluation
+Planning a program evaluation can be broken up into four parts: focusing the evaluation, collecting the information, using the information, and managing the evaluation.[28] Program evaluation involves reflecting on questions about evaluation purpose, what questions are necessary to ask, and what will be done with information gathered. Critical questions for consideration include:
+
+What am I going to evaluate?
+What is the purpose of this evaluation?
+Who will use this evaluation? How will they use it?
+What questions is this evaluation seeking to answer?
+What information do I need to answer the questions?
+When is the evaluation needed? What resources do I need?
+How will I collect the data I need?
+How will data be analyzed?
+What is my implementation timeline?
+Methodological constraints and challenges
+The shoestring approach
+The "shoestring evaluation approach" is designed to assist evaluators operating under limited budget, limited access or availability of data and limited turnaround time, to conduct effective evaluations that are methodologically rigorous(Bamberger, Rugh, Church & Fort, 2004).[29] This approach has responded to the continued greater need for evaluation processes that are more rapid and economical under difficult circumstances of budget, time constraints and limited availability of data. However, it is not always possible to design an evaluation to achieve the highest standards available. Many programs do not build an evaluation procedure into their design or budget. Hence, many evaluation processes do not begin until the program is already underway, which can result in time, budget or data constraints for the evaluators, which in turn can affect the reliability, validity or sensitivity of the evaluation. > The shoestring approach helps to ensure that the maximum possible methodological rigor is achieved under these constraints.
+
+Budget constraints
+Frequently, programs are faced with budget constraints because most original projects do not include a budget to conduct an evaluation (Bamberger et al., 2004). Therefore, this automatically results in evaluations being allocated smaller budgets that are inadequate for a rigorous evaluation. Due to the budget constraints it might be difficult to effectively apply the most appropriate methodological instruments. These constraints may consequently affect the time available in which to do the evaluation (Bamberger et al., 2004).[29] Budget constraints may be addressed by simplifying the evaluation design, revising the sample size, exploring economical data collection methods (such as using volunteers to collect data, shortening surveys, or using focus groups and key informants) or looking for reliable secondary data (Bamberger et al., 2004).

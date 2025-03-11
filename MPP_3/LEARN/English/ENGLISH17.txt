@@ -1,0 +1,20 @@
+The structuralist movement originated primarily from the work of Durkheim as interpreted by two European scholars: Anthony Giddens, a sociologist, whose theory of structuration draws on the linguistic theory of Ferdinand de Saussure; and Claude Lévi-Strauss, an anthropologist. In this context, 'structure' does not refer to 'social structure', but to the semiotic understanding of human culture as a system of signs. One may delineate four central tenets of structuralism:[95]
+
+Structure is what determines the structure of a whole.
+Structuralists believe that every system has a structure.
+Structuralists are interested in 'structural' laws that deal with coexistence rather than changes.
+Structures are the 'real things' beneath the surface or the appearance of meaning.
+The second tradition of structuralist thought, contemporaneous with Giddens, emerges from the American School of social network analysis in the 1970s and 1980s,[96] spearheaded by the Harvard Department of Social Relations led by Harrison White and his students. This tradition of structuralist thought argues that, rather than semiotics, social structure is networks of patterned social relations. And, rather than Levi-Strauss, this school of thought draws on the notions of structure as theorized by Levi-Strauss' contemporary anthropologist, Radcliffe-Brown.[97] Some[98] refer to this as "network structuralism", and equate it to "British structuralism" as opposed to the "French structuralism" of Levi-Strauss.
+
+Post-structuralism
+Post-structuralist thought has tended to reject 'humanist' assumptions in the construction of social theory.[99] Michel Foucault provides an important critique in his Archaeology of the Human Sciences, though Habermas (1986) and Rorty (1986) have both argued that Foucault merely replaces one such system of thought with another.[100][101] The dialogue between these intellectuals highlights a trend in recent years for certain schools of sociology and philosophy to intersect. The anti-humanist position has been associated with "postmodernism", a term used in specific contexts to describe an era or phenomena, but occasionally construed as a method.[citation needed]
+
+Central theoretical problems
+Overall, there is a strong consensus regarding the central problems of sociological theory, which are largely inherited from the classical theoretical traditions. This consensus is: how to link, transcend or cope with the following "big three" dichotomies:[102]
+
+subjectivity and objectivity, which deal with knowledge;
+structure and agency, which deal with action;
+and synchrony and diachrony, which deal with time.
+Lastly, sociological theory often grapples with the problem of integrating or transcending the divide between micro, meso, and macro-scale social phenomena, which is a subset of all three central problems.
+
+The problem of subjectivity and objectivity can be divided into two parts: a concern over the general possibilities of social actions, and the specific problem of social scientific knowledge. In the former, the subjective is often equated (though not necessarily) with the individual, and the individual's intentions and interpretations of the objective. The objective is often considered any public or external action or outcome, on up to society writ large. A primary question for social theorists, then, is how knowledge reproduces along the chain of subjective-objective-subjective, that is to say: how is intersubjectivity achieved? While, historically, qualitative methods have attempted to tease out subjective interpretations, quantitative survey methods also attempt to capture individual subjectivities. Qualitative methods take an approach to objective description known as in situ, meaning that descriptions must have appropriate contextual information to understand the information
